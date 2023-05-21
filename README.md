@@ -25,7 +25,7 @@ bash
 - $ sudo apt install python3-pip
 - $ sudo apt install ruby
 - $ gem install lolcat
-- git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
+- git clone https://github.com/Farukbrowser/FrkCHAT_BOT.git
 - $ cd CyberCHAT_BOT
 - $ sudo mv 3d.flf /usr/share/figlet/
 - $ unzip node_modules.zip
