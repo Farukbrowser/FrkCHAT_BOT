@@ -1,11 +1,9 @@
 # CyberCHAT_BOT (whatsapp & telegram)
 
-![text](https://user-images.githubusercontent.com/120331083/225952804-e1261532-d8a5-4701-b8c8-d19c3cad3fed.gif)
+
 
 ***WhatsApp OpenAI ChatGPT Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
-
-![pngfind com-zero-png-1614458](https://user-images.githubusercontent.com/120331083/225947164-33c49d96-68a7-4aa3-9d3a-4dc912d11147.png)
 
 ## BACA DULU
 Untuk bot whatsapp Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>Untuk commandnya menggunakan ```/ai``` dan ```/img```
