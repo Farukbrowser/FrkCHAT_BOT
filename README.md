@@ -26,7 +26,7 @@ bash
 - $ sudo apt install ruby
 - $ gem install lolcat
 - git clone https://github.com/Farukbrowser/FrkCHAT_BOT.git
-- $ cd CyberCHAT_BOT
+- $ cd FrkCHAT_BOT
 - $ sudo mv 3d.flf /usr/share/figlet/
 - $ unzip node_modules.zip
 - $ khusus WSL harus nyalain venv dengan
