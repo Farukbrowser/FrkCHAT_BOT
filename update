@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/Farukbrowser/FrkCHAT_BOT/main/setup
+wget -q https://raw.githubusercontent.com/Farukbrowser/FrkCHAT_BOT/main/setup
